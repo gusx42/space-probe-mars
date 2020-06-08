@@ -5,7 +5,6 @@ Create a mars space probe exploration
 ## How use this
 
 Initial configuration:
-* Area size: 5x5
 * Initial position: (0,0,N) = x = 0, y = 0 and camera = North
 
 Moves:
